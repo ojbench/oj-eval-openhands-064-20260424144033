@@ -7,3 +7,6 @@ code
 *.out
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
